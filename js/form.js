@@ -47,7 +47,6 @@ function fileChange() {
         var temp = all.files[i].name;
         allFileName = allFileName + "  " + temp+ " || ";
     }
-    console.log(allFileName)
     $("#filesLabel").text(allFileName);
 }
 

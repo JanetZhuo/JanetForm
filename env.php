@@ -7,7 +7,7 @@ $stmpPassword = "Janet123";
 
 $fromEmail = "codetestsender@163.com";
 $fromName = "Janet";
-$toEmail = "janetzhuo123@gmail.com";
+$toEmail = "support@pursuittechnology.com.au";
 $toName = "Pursuit Technology";
 
 
